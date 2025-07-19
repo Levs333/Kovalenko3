@@ -1,0 +1,58 @@
+img body {
+    width: 500px;
+    }
+
+html {
+  text-align: center; 
+  font-family: SEGOE PRINT;
+}
+
+body {
+  background-color: #dfd89c;
+}
+
+footer {
+ background-color: #6B8E23 ;
+ border: 5px solid black ;
+}
+
+footer img {
+  width: 30px
+}
+
+h1 {
+  background-color: #b1d665 ;
+ border: 5px solid black ;
+}
+
+h2 {
+  background-color: #3b4922 ;
+ border: 5px solid black ;
+ color: white
+}
+
+h3  {
+  background-color: #829e50 ;
+ border: 5px solid black ;
+ color: white
+}
+bb
+nav {
+  margin: 20px;
+  padding: 10px;
+  border: 2px;
+}
+
+nav a {
+  margin: 10px;
+ font-size: 20px;
+  text-decoration: none;
+
+  /* Rectangle 2 */
+  width: 88px;
+  height: 20px;
+  background: #829E50;
+  line-height: 11px;
+  border: 3px solid black;
+  color: #000000;
+  }
